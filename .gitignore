@@ -21,3 +21,11 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+README-Guide.md
+style-guide.md
+design/active-states.jpg
+design/desktop-design.jpg
+design/desktop-preview.jpg
+design/mobile-design.jpg
+public/pattern-bg-desktop.png
+public/pattern-bg-mobile.png

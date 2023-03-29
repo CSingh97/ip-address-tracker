@@ -1,25 +1,32 @@
-import logo from './logo.svg';
 import './App.css';
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
-  );
+    <>
+      <div class="header">
+        IP Address Tracker
+
+        <div class="searchbar">
+        <input type="text" placeholder="Search for any IP address or domain"></input>
+        </div>
+      </div>
+
+      <div class="article">
+        <div>
+          IP Address
+          Location
+          Timezone
+          UTC (add offset value dynamically using the API)
+          ISP
+        </div>  
+      </div>
+
+        <div class="attribution">
+          Challenged by <a href="https://www.frontendmentor.io?ref=challenge">Frontend Mentor</a>.
+          Coded by <a href="https://github.com/CSingh97">Calvin Singh</a>.
+        </div>
+    </>
+      );
 }
 
-export default App;
+      export default App;
