@@ -6,7 +6,7 @@ import { Icon } from "leaflet";
 
 const ChangeMap = ({ coordinates }) => {
   const map = useMap();
-  map.flyTo(coordinates, map.getZoom());
+  map.setView(coordinates, 18);
   return null;
 };
 
@@ -14,8 +14,8 @@ export default function Map({ coordinates }) {
   return (
     <div id="map">
       <MapContainer
-        center={[0, 0]}
-        zoom={50}
+        center={coordinates}
+        zoom={1}
         style={{ position: "inherit", height: "70vh", width: "100%", top: "29.2vh" }}
         scrollWheelZoom={true}
       >
