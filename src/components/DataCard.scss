@@ -4,10 +4,10 @@
   padding-left: 10px;
   padding-right: 10px;
   border-radius: 12px;
-  -webkit-border-radius: 12px;
-  -moz-border-radius: 12px;
-  -ms-border-radius: 12px;
-  -o-border-radius: 12px;
+    -webkit-border-radius: 12px;
+    -moz-border-radius: 12px;
+    -ms-border-radius: 12px;
+    -o-border-radius: 12px;
 
   @media(min-width: 500px) {
     width: 90%;
@@ -31,12 +31,12 @@
     .data-col {
       display: flex;
       flex-direction: column;
+      margin-right: 100px;
+      margin-left: 60px;
       border-right: black;
 
       @media (max-width: 500px) {
         margin: 4px;
-        margin-right: 100px;
-        margin-left: 60px;
         align-items: center;
       }
     }
@@ -71,7 +71,6 @@
       }
     }
   }
-
   .separator {
     width: 1px;
     background-color: gray;
