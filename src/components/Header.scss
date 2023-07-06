@@ -37,12 +37,8 @@
 
   #searchbar {
     display: flex;
-    width: 60%;
-
-    @media (min-width: 600px) {
-      width: 80%;
-    }
-
+    width: 80%;
+    
     input {
       width: 100%;
       padding: 12px;
