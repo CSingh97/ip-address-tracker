@@ -12,6 +12,6 @@ Users are able to:
 
 ### Screenshots
 
-| ![Initial view](image\README\init.png) | ![mobile view](image\README\mobile.png) | ![example usage](image\README\desktop-8.png) |
+| ![Initial view](image/README/init.png) | ![mobile view](image/README/mobile.png) | ![example usage](image/README/desktop-8.png) |
 | ------------------------------------ | ------------------------------------- | ------------------------------------------ |
 | Initial View (Desktop)               | Initial View (Mobile)                 | Search function (8.8.8.8)                  |
