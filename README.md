@@ -12,6 +12,6 @@ Users are able to:
 
 ### Screenshots
 
-| ![Initial view](https://file+.vscode-resource.vscode-cdn.net/c%3A/Users/Calvin/.vscode-insiders/workspaces/ip-address-tracker/image/README/init.png) | ![mobile view](https://file+.vscode-resource.vscode-cdn.net/c%3A/Users/Calvin/.vscode-insiders/workspaces/ip-address-tracker/image/README/mobile.png) | ![example usage](https://file+.vscode-resource.vscode-cdn.net/c%3A/Users/Calvin/.vscode-insiders/workspaces/ip-address-tracker/image/README/desktop-8.png) |
-| -------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Initial View (Desktop)                                                                                                                             | Initial View (Mobile)                                                                                                                               | Search function (8.8.8.8)                                                                                                                                |
+| ![Initial view](image\README\init.png) | ![mobile view](image\README\mobile.png) | ![example usage](image\README\desktop-8.png) |
+| ------------------------------------ | ------------------------------------- | ------------------------------------------ |
+| Initial View (Desktop)               | Initial View (Mobile)                 | Search function (8.8.8.8)                  |
